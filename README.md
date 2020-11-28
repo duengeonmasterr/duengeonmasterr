@@ -32,7 +32,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love Traveling
 
-[![Linkedin: Harshit Sachdeva](https://img.shields.io/badge/-aditya_sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit-sachdeva/)](www.linkedin.com/in/harshit-sachdeva)
+[![Linkedin: Harshit Sachdeva](https://img.shields.io/badge/-Harshit_Sachdeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit-sachdeva/)](www.linkedin.com/in/harshit-sachdeva)
 [![GitHub duengeonmasterr](https://img.shields.io/github/followers/duengeonmasterr?label=follow&style=social)](https://github.com/duengeonmasterr)
 
 ### Languages and Tools:  
